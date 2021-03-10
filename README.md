@@ -1,3 +1,3 @@
 # MA_Crawl
 
-this is my vr project
+this is my VR project
