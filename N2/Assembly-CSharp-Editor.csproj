@@ -113,6 +113,8 @@
     <Compile Include="Assets\#NVJOB Simple Water Shaders\Example Scenes\PostProcessing\Editor\Utils\EditorResources.cs" />
     <Compile Include="Assets\#NVJOB Simple Water Shaders\Example Scenes\PostProcessing\Editor\Utils\FxStyles.cs" />
     <Compile Include="Assets\#NVJOB Simple Water Shaders\Example Scenes\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
+    <Compile Include="Assets\Editor\Instant Screenshot\ScreenshotTaker.cs" />
+    <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/2019.4.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -674,8 +676,14 @@
     <Reference Include="UnityEngine.TestRunner">
       <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.Management">
+      <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Subsystem.Registration">
+      <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Interaction.Toolkit">
       <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll</HintPath>
@@ -689,8 +697,14 @@
     <Reference Include="Unity.InputSystem">
       <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.Oculus">
+      <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.XR.Oculus.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Oculus.Editor">
+      <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.XR.Oculus.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -703,6 +717,9 @@
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Management.Editor">
+      <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/a0915/Documents/GitHub/MA_Crawl/N2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
